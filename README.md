@@ -14,12 +14,6 @@
 
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=adip-odoo&show_icons=true&locale=en&theme=radical&card_width=500" 
-    alt="adip-odoo stats" 
-    width="500"
-  />
-  <br />
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=adip-odoo&theme=radical&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D" 
     alt="GitHub Streak" 
     width="500"

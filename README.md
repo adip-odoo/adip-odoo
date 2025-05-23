@@ -6,17 +6,9 @@
 ---
 
 #### 📫 Reach me on: adip@odoo.com
-#### 🤝 Connect with me: <a href="https://linkedin.com/in/https://in.linkedin.com/in/aditi-patel-21a170205" target="blank">LinkedIn</a>
+#### 🤝 Connect with me: <a href="https://www.linkedin.com/in/aditipatel01/" target="blank">LinkedIn</a>
 
 ---
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect you more!</b> 😊</em>
 
-<div align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=adip-odoo&theme=radical&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub Streak" 
-    width="500"
-  />
-</div>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adip-odoo&theme=radical&exclude_days=Sun,Sat&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />

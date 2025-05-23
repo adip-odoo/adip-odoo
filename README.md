@@ -1,6 +1,5 @@
 <h1 align="center">नमस्ते (Namaste) Developers  🖥️, <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="45px"></h1>
-<h2 align="center">I'm a Aditi Patel (adip), a Software developer from India. 🙏🏻🇮🇳</h2>
-
+<h2 align="center">I'm a Aditi Patel, a Software developer from India. 🙏🏻🇮🇳 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adip-odoo&label=Profile%20views&color=0e75b6&style=flat" alt="adip-odoo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adip-odoo&margin-w=10&title=PullRequest,Commits,Repositories&theme=radical" alt="adip-odoo" /></a> </p>
 
